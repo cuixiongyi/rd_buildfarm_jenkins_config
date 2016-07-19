@@ -7,7 +7,7 @@ jenkins_pull_request_job_priority: 61
 notifications:
   committers: false
   emails:
-  - ros-buildfarm-testfarm@googlegroups.com
+  - cuixiongyi2013@gmail.com
   maintainers: false
 repositories:
   keys:
@@ -15,35 +15,58 @@ repositories:
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1
 
-    mQENBFRj9wABCADBxfCOCydUqsXS4JlhytBZroc7129AGHTn62xanKYXN1ihB5Ay
-    pLGJcz22MHnCegcCUA6HXOaOdLJTg8PZp/ncOGcLjRsmy+tkQzC0aX0yKhH1bKxe
-    TKe2/Kdk7y8SwW3Uw2r+R/d36DUoCTCRmibScIM4clD4eOOz/FZEVbnZuGmEKw1z
-    O5oMDgerEm8ou4s45RwIfTyt2UodxhLpjBWvuMKhKvc8JlpiZD/TMj+/uMhDe/eL
-    ijG+tMi9vUdo1B4xsDlLW7GFCmYXMBzhuO30TaC9PSE2e2cQS1jWX4113l32oXdg
-    IP8Nl1yxFGDPAKLQe+HNt7gyhoEkPP6tUKARABEBAAG0H1JPUyBSZWxlYXNlIDxu
-    b29uZUBleGFtcGxlLmNvbT6JATgEEwECACIFAlRj9wACGwMGCwkIBwMCBhUIAgkK
-    CwQWAgMBAh4BAheAAAoJEIsjFZ/llEM2cx8H/Ru8upiYAhwphPxOPEvkLfqZDEjI
-    LrFg4A5WhUvhMFpRzdOUovVCM9D73rtZEsaQgmtPIs1Mdp8M44E5G7sV9Zjp/4zf
-    T/vgopfBjG9M3foWkhWyupFlHm7AC9tv+3+vmzW5uzvrk/tRqirpU/5lm+wEE+Xq
-    Jy2UlkGj8o1WZDJXd0SoJF/MRXBwOa9kkpxNMLrOGSSra9GzBsIO9570QAUOD8pA
-    OKD+5pjDIdnySDpfBNIhv029dBhSKZg5sTzZr3dxise759l0W+8i1H6GUvxWe4km
-    8v7YDPyajsHs43ImbZQrMcr5l1TAVk8OBSLqGmtiLasRFnHQUxQyJNyo3gS5AQ0E
-    VGP3AAEIAM+qLZEg9qagVbm/FvS1wGlQVFgokjWGIZCxbzC2mNNAmyNXvOeCD899
-    N0xnprYd131Ocg53tllkYeSyUNBfO0f/CI0Msh+hzDivT0HqJxmxZGWHrm35to4e
-    LSIAOmoxDNXQwpC4ZNTUPZNNFdCfU0tGGXnA66BYpilfEv20eBgk1x+pu1vJxne1
-    /SPUwZAiiWb2ydRHvLJErUTcXGKn5UG4PlUAOCCoBC3195TIevlO9hlvtLkW9olu
-    hnWNtJJHfbjtwoQC+z5Kn4miFl/FkXAp8YfYSCF3glXAXY08dLIJkFCyi07J3jj6
-    I6xX0An+i8P/k/DyldjaMoutARLswuMAEQEAAYkBHwQYAQIACQUCVGP3AAIbDAAK
-    CRCLIxWf5ZRDNpN5CACdKoLcjJIIPQuCPyLdba5z6prRRo21Yud5dtyGGhOmDAt/
-    cjlmdwlta/ZkArkTB9is4iIDvo2D4PmRA756VHEBfhqwknt5DANMm3p9A5/z+sgX
-    n/punYuskxDjOU2+NwbBXRHgXz1vQpIEVtS3bQvjmyPn/yl31NM5zZ9Lwat/ynKj
-    iAvRflohugScLVSA0VCvn4gKlxCHBvtNS22rvsPW2zbOz38pp5gU+fNRUaLRmHna
-    b97l/64k31UzIQHeAHHbGODQfJ0PpKyS9UM4vvcMldUrBL4O4fLVaeqMjAhKSfcY
-    xaePFwP+okKW1h9qvwFhNF0JSCtdJrexdCf8jGE7
-    =E8ot
+    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
+    QE0rUfZdUsGJQD4UUrcPUWv1GbRBJA==
+    =CNdn
     -----END PGP PUBLIC KEY BLOCK-----
+
   urls:
-  - http://54.183.65.232/ubuntu/testing
+  - https://bitbucket.org/cuixiongyi/freecad_ros/ubuntu/testing
 targets:
   ubuntu:
     trusty:
