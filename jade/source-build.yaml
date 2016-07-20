@@ -56,3 +56,5 @@ test_pull_requests:
   force: false
 type: source-build
 version: 2
+
+rd_repo: git@github.com:cuixiongyi/cxy-ros.git
